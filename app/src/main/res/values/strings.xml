@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorinColorado</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cc_main_ly_iv_contentDescription">skyImage</string>
+    <string name="button_capture_text">Capture</string>
+    <string name="button_cancel_text">Cancelar</string>
+</resources>
