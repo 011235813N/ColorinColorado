@@ -14,3 +14,5 @@ Our App make the image capture and extract the color palette based on 16 swatche
 The second phase is build and arduino station for automated captures of the sky.
 
 The main goal is bring on all the enthusiast of the hardware to build their own station, again we provide the image processing and exposure trough API
+
+We provide an demo apk to test and play with our prototipe
